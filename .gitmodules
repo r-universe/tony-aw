@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "broadcast"]
+	path = broadcast
+	url = https://github.com/tony-aw/broadcast
 [submodule "tinycodet"]
 	path = tinycodet
 	url = https://github.com/tony-aw/tinycodet
